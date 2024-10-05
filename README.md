@@ -20,7 +20,7 @@
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lKYlMv5hyUk)
 
 ### 3.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/HAX3R-099/techgodv8) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [HAX3R BUG BOT] (https://github.com/HAX3R302/techgodv8)) ON ANY TERMINAL
 sudo apt -y update && sudo apt -y upgrade
 ```
 sudo apt -y install git ffmpeg curl
@@ -41,7 +41,7 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/HAX3R-099/techgodv8
+git clone https://github.com/HAX3R302/techgodv8
 ```
 ```
 cd techgodv8
@@ -74,7 +74,7 @@ pkg install imagemagick
 termux-setup-storage
 
 
-git clone https://github.com/HAX3R-099/techgodv8
+git clone https://github.com/HAX3R302/techgodv8
 ```
 ```
  cd techgodv8
